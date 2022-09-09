@@ -38,6 +38,8 @@ for i in range(10):
     curr[1] += 0.1
     chiCuadrada += chi
 
+print("H0: los numeros generados no son diferentes de una distribucion uniforme.")
+print("H1: los numeros generados son diferentes de una distribucion uniforme. \n")
 
 for j in intervals:
     print(j)
