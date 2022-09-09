@@ -15,3 +15,4 @@ def LGC (x,a,c,m,corridas):
 x = LGC(6,32,3,80,10)
 print(x)
 
+
